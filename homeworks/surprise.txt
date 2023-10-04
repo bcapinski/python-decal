@@ -1,0 +1,22 @@
+Name: Benjamin Capinski
+Student ID: 3039158410
+
+1. What are 3-5 (or more) commands that you can use on terminal and what do they do? What language is your computer terminal in?
+cd to change what directory you're saying commands in
+mkdir to make a folder
+mv to move a file
+rm -rf to delete stuff
+notepad to open a file in notepad on windows
+I think the language is bash, but I'm on Windows which uses shell so there are some bash commands that come included with VS Code.
+
+2. Do you have pets? What kind?
+No pets :(
+
+3. If you run across an error, what would your first course of action be?
+Google it.
+
+4. Funniest thing that happened to you in high school.
+Someone fell off a fence and it was really funny, they were ok.
+
+5. What is a python script? (Keep it simple)
+It is a file on your computer that runs the commands inside of it, and you can write the commands using the python language.
